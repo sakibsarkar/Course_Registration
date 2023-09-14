@@ -1,12 +1,14 @@
 import "./App.css";
-import { useState } from "react";
+import Courses from "./Courses/Courses";
+import Header from "./Header/Header";
 
 function App() {
-  const [count, setCount] = useState(0)
+
 
   return (
     <>
-      
+      <Header></Header>
+      <Courses></Courses>
     </>
   )
 }
