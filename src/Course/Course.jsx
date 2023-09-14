@@ -1,6 +1,6 @@
 import "./Course.css";
 
-const Course = ({course}) => {
+const Course = ({course,handleAddCourseToCart}) => {
     const {course_id,course_name,description,image,price,credit_hour} = course
     return (
         <div className="card">
@@ -25,7 +25,7 @@ const Course = ({course}) => {
                 </div>
             </div>
 
-            <button>Select</button>
+            <button onClick={()=>handleAddCourseToCart(course)}>Select</button>
         </div>
     );
 };
