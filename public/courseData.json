@@ -1,0 +1,57 @@
+[
+    {
+      "course_id": "CS101",
+      "course_name": "Introduction to Programming",
+      "description": "A beginner-friendly course that covers the fundamentals of programming using Python.",
+      "image": "https://i.ibb.co/Xk14RP0/Introduction-to-Programming.jpg"
+    },
+    {
+      "course_id": "CS202",
+      "course_name": "Data Structures and Algorithms",
+      "description": "Learn advanced programming concepts and algorithms to solve complex problems.",
+      "image": "https://i.ibb.co/CwXH4cx/Data-Structures-and-Algorithms.png"
+    },
+    {
+      "course_id": "WEB101",
+      "course_name": "Web Development Fundamentals",
+      "description": "Build a solid foundation in web development with HTML, CSS, and JavaScript.",
+      "image": "https://i.ibb.co/BK8hLnT/Web-Development-Fundamentals.png"
+    },
+    {
+      "course_id": "DB101",
+      "course_name": "Database Design and Management",
+      "description": "Learn to design and manage databases effectively for applications.",
+      "image": "https://i.ibb.co/JFS2032/Database-Design-and-Management.jpg"
+    },
+    {
+      "course_id": "JAVA202",
+      "course_name": "Advanced Java Programming",
+      "description": "Explore advanced Java topics and develop complex applications.",
+      "image": "https://i.ibb.co/cwYjWmR/Advanced-Java-Programming.jpg"
+    },
+    {
+      "course_id": "PYTHON303",
+      "course_name": "Python for Data Science",
+      "description": "Learn Python for data analysis, machine learning, and data visualization.",
+      "image": "https://i.ibb.co/4fLzdD0/Python-for-Data-Science.png"
+    },
+    {
+      "course_id": "CPLUSPLUS303",
+      "course_name": "C++ Programming for Game Development",
+      "description": "Master C++ programming for game development projects.",
+      "image": "https://i.ibb.co/rGzmhLL/C-Programming-for-Game-Development.jpg"
+    },
+    {
+      "course_id": "CSHARP404",
+      "course_name": "Advanced C# Programming",
+      "description": "Take your C# skills to the next level with advanced topics and projects.",
+      "image": "https://i.ibb.co/kBQcQ4M/Advanced-C-Programming.png"
+    },
+    {
+      "course_id": "RUBY202",
+      "course_name": "Ruby on Rails Web Development",
+      "description": "Learn Ruby on Rails for building web applications with ease.",
+      "image": "https://i.ibb.co/3pBQXg3/Ruby-on-Rails-Web-Development.jpg"
+    }
+  ]
+  
