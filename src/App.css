@@ -1,0 +1,8 @@
+.content{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    justify-content: flex-start;
+    margin: auto;
+    width: fit-content;
+}
