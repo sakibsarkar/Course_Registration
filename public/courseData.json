@@ -5,7 +5,7 @@
     "description": "A beginner-friendly course that covers the fundamentals of C programming. Get started with C programming language and build a solid foundation.",
     "image": "https://i.ibb.co/r2J6zLn/Rectangle-2-2.png",
     "price": 199.99,
-    "credit_hour": 10
+    "credit_hour": 1
   },
   {
     "course_id": "CS202",
@@ -13,15 +13,15 @@
     "description": "Learn advanced programming concepts and algorithms to solve complex problems. Dive into the world of algorithms and data structures.",
     "image": "https://i.ibb.co/G7hR2kC/Rectangle-2-3.png",
     "price": 249.99,
-    "credit_hour": 12
+    "credit_hour": 2
   },
   {
     "course_id": "WEB101",
     "course_name": "Introduction to C++ for DSA",
-    "description": "Build a solid foundation in web development with HTML, CSS, and JavaScript. Discover the power of C++ for Data Structures and Algorithms.",
+    "description": "Are you ready to embark on a thrilling journey into the world of Data Structures and Algorithms (DSA) armed with the powerful C++ programming language?",
     "image": "https://i.ibb.co/Q8Cc9KJ/Rectangle-2-4.png",
     "price": 179.99,
-    "credit_hour": 8
+    "credit_hour": 10
   },
   {
     "course_id": "DB101",
@@ -29,7 +29,7 @@
     "description": "Learn to design and manage databases effectively for applications. Master the basics of data structures in database management.",
     "image": "https://i.ibb.co/YQPYYRd/Rectangle-3.png",
     "price": 149.99,
-    "credit_hour": 6
+    "credit_hour": 5
   },
   {
     "course_id": "JAVA202",
@@ -37,7 +37,7 @@
     "description": "Explore advanced Java topics and develop complex applications. Discover Object-Oriented Programming with Python.",
     "image": "https://i.ibb.co/kBm4x4g/Rectangle-2.png",
     "price": 229.99,
-    "credit_hour": 10
+    "credit_hour": 5
   },
   {
     "course_id": "PYTHON303",
@@ -45,7 +45,7 @@
     "description": "Learn Python for data analysis, machine learning, and data visualization. Dive into software engineering with Python.",
     "image": "https://i.ibb.co/3YKSRKK/Rectangle-2-5.png",
     "price": 279.99,
-    "credit_hour": 14
+    "credit_hour": 2
   },
   {
     "course_id": "CPLUSPLUS303",
@@ -53,7 +53,7 @@
     "description": "Master C++ programming for game development projects. Explore AWS and Cloud Computing with C++.",
     "image": "https://i.ibb.co/Z1v4gBt/Rectangle-3-1.png",
     "price": 299.99,
-    "credit_hour": 12
+    "credit_hour": 5
   },
   {
     "course_id": "CSHARP404",
@@ -61,7 +61,7 @@
     "description": "Take your C# skills to the next level with advanced topics and projects. Dive into MySQL database management with C#.",
     "image": "https://i.ibb.co/DMBcPp9/Rectangle-2-1.png",
     "price": 199.99,
-    "credit_hour": 8
+    "credit_hour": 5
   },
   {
     "course_id": "RUBY202",
@@ -69,6 +69,6 @@
     "description": "Learn Ruby on Rails for building web applications with ease. Hone your problem-solving skills with Ruby on Rails.",
     "image": "https://i.ibb.co/2ZQWs7Q/Rectangle-2-6.png",
     "price": 149.99,
-    "credit_hour": 6
+    "credit_hour": 2
   }
 ]
