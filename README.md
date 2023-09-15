@@ -11,5 +11,5 @@
 React State (useState hook): The simplest way to manage state in a functional React component is by using the useState hook. we can declare state variables and their initial values within our component, and React will automatically re-render your component when the state changes.
 
 
-After clicking the [select] button the data will transfer to the SideCart.jsx through a hook(useState) that I created in App.jsx.
+After clicking the [select] button the data will transfer as a props to the SideCart.jsx through a hook(useState) that I created in App.jsx.
 Then the SideCart.jsx will display the credit_hour, course_name , price on the User Interface. 
