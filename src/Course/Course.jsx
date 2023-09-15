@@ -25,7 +25,7 @@ const Course = ({course,handleAddCourseToCart}) => {
                 </div>
             </div>
 
-            <button onClick={()=>handleAddCourseToCart(course)}>Select</button>
+            <button className={course_id} onClick={()=>handleAddCourseToCart(course)}>Select</button>
         </div>
     );
 };
