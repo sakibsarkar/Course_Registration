@@ -4,3 +4,24 @@
     gap: 24px;
     width: fit-content;
 }
+
+@media screen and (max-width: 400px) {
+       .container{
+        display: grid;
+        grid-template-columns: repeat(1,312px);
+    }
+}
+@media screen and (min-width: 401px) and (max-width: 720px) {
+       .container{
+        display: grid;
+        grid-template-columns: repeat(1,312px);
+    }
+}
+
+@media screen and (min-width: 721px) and (max-width: 1280px) {
+    .container{
+        display: grid;
+        grid-template-columns: repeat(2,312px);
+    }
+}
+
