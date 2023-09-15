@@ -11,7 +11,7 @@ function App() {
   const [selectedCourse, setselectedCourse] = useState([])
   const [reamainCredit,setRemainCredit] = useState(20)
   const handleAddCourseToCart = (course) => {
-        let btn = document.querySelector(`.${course.course_id}`) ;
+        
    
 
     if (selectedCourse.includes(course)) {
@@ -23,8 +23,7 @@ function App() {
         setRemainCredit(mycredit)
         let selectedCourses = [...selectedCourse, course]
           setselectedCourse(selectedCourses)
-          btn.innerHTML = `Added successfully <i class="fa-solid fa-square-check"></i>`
-          btn.style.backgroundColor  = "#00d300"
+          
       }
       else{
         toast.error("You dont have enough credit remaining")
@@ -39,7 +38,6 @@ function App() {
   return (
     <>
       <Toaster />
-      <Header></Header>
       <Header></Header>
       <div className="content">
         <Courses handleAddCourseToCart={handleAddCourseToCart}></Courses>
